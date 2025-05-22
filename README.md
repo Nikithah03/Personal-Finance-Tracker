@@ -102,9 +102,9 @@ Please feel free to submit [issues](https://github.com/Ravi879/BudgetManager-Ang
 
 ## Author
 
-- Ravi Gadhiya  
-[https://github.com/Ravi879](https://github.com/Ravi879)  
-[https://www.linkedin.com/in/gadhiyaravi](https://www.linkedin.com/in/gadhiyaravi)  
+- Nikitha H  
+[https://github.com/Nikithah03](https://github.com/Nikithah03)  
+[(https://www.linkedin.com/in/nikitha-h-b6897a263/)]((https://www.linkedin.com/in/nikitha-h-b6897a263/))  
 
 
 ### Why I have create this repository?
